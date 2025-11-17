@@ -1,0 +1,11 @@
+# Descripción
+## Instructor: Nacho Iborra
+En este curso se aborda la disciplina de la ciencia de datos o "data science". Éste es un campo que utiliza diferentes estrategias y métodos para extraer conocimiento y comprensión de datos en diversas formas, ya sean estructurados o no estructurados.
+
+Veremos, por un lado, cómo recolectar distintos datos que necesitemos para abordar un problema, y cómo podemos cargarlos en Python. Aplicaremos distintas estrategias de pre-procesamiento o "limpieza" de esos datos para dejarlos listos para su análisis. Por ejemplo, veremos qué hacer si nos faltan datos (valores nulos o faltantes), o si hay valores anómalos recogidos. También veremos la importancia de elegir el tipo correcto de dato para cada variable a analizar, y cómo podemos convertir de unos tipos a otros.
+
+Una vez los datos están limpios y preparados, veremos otras técnicas o métodos complementarios, como el análisis exploratorio de datos (EDA, Exploratory Data Analysis) que nos va a permitir sintetizar de forma numérica o visual las principales características del conjunto de datos estudiados: valores máximos, mínimos, tendencias, anomalías, etc.
+
+Para todo ello haremos uso de librerías adicionales disponibles en Python, tales como NumPy, Pandas, Matplotlib, etc, y veremos cómo aplicarlas tanto para pre-procesar los datos como para obtener distintos tipos de gráficos representativos. Todo esto puede suponer en sí la solución a un problema que estemos abordando, como dejar los datos preparados para su posterior almacenamiento, o como etapa previa a otra: por ejemplo, elaborar un modelo de predicción que, en base a los datos facilitados, sea capaz de inferir o predecir el resultado de nuevos datos de entrada que le lleguen.
+
+Curso: https://www.udemy.com/course/ciencia-de-datos-en-python/
